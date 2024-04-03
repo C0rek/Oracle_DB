@@ -1,3 +1,5 @@
+ESTADO: EN CURSO
+
 INFROMACION DEL CURSO
 * Nombre: Base de Datos Oracle Database.
 * Profesor: Victor Ramos.
